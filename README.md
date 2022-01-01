@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @davieswinnipeg
-- 👀 I’m interested in coding
+- 👀 I’m interested in business intelligence and aritifical intelligence. 
 - 🌱 I’m currently learning CS50
 - 💞️ I’m looking to collaborate on anything data related project
 - 📫 How to reach me unknown yet
